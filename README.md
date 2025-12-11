@@ -225,7 +225,7 @@ practice make perfect
                 explanation: "A 95% Confidence Interval (CI) of (-45, 120) means the true difference (A–B) lies between -45 and 120. Since the lower bound is -45, the difference is significantly greater than any value less than or equal to -45. Since the CI includes 0, no significant difference (A is better or worse) or superiority is demonstrated at the 5% alpha level."
             },
             {
-                question: "6. A two-sided 99% CI corresponds to one-sided $\\alpha$ =",
+                question: "6. A two-sided 99% CI corresponds to one-sided α ?",
                 options: ["A. 0.5%", "B. 1%", "C. 5%", "D. 10%"],
                 answer: "B",
                 explanation: "A two-sided 99% CI leaves $\\alpha = 100\\% - 99\\% = 1\\%$ to be split between the two tails. For a one-sided test, the significance level $\\alpha$ is concentrated in one tail, so one-sided $\\alpha = 1\\%$."
