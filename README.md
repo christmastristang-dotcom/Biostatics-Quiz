@@ -309,10 +309,10 @@ practice make perfect
                 explanation: "An increase in Standard Deviation (SD) increases variability, making it harder to detect a true difference, thereby decreasing power."
             },
             {
-                question: "20. BE usual one-sided α =",
+                question: "20. In a bioequivalence study, the one-sided Type-I error is usually controlled at:",
                 options: ["A. 0.5%", "B. 1%", "C. 2.5%", "D. 5%"],
                 answer: "D",
-                explanation: "Bioequivalence (BE) studies typically use a one-sided $\\alpha = 5\\%$."
+                explanation: "Bioequivalence = one‑sided α = 0.05."
             },
             {
                 question: "21. Frequentist statistics evaluates:",
