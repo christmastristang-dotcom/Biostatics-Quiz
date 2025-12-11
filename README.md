@@ -231,7 +231,7 @@ practice make perfect
                 explanation: "A two-sided 99% CI leaves $\\alpha = 100\\% - 99\\% = 1\\%$ to be split between the two tails. For a one-sided test, the significance level $\\alpha$ is concentrated in one tail, so one-sided $\\alpha = 1\\%$."
             },
             {
-                question: "7. In a bioequivalence study, the one-sided $\\alpha$ is:",
+                question: "7. In a bioequivalence study, the one-sided α is:",
                 options: ["A. 0.5%", "B. 1%", "C. 2.5%", "D. 5%"],
                 answer: "D",
                 explanation: "Bioequivalence (BE) studies typically use a 90% Confidence Interval (two-sided $\\alpha = 10\\%$), which corresponds to two simultaneous one-sided tests at $\\alpha = 5\\%$."
@@ -309,7 +309,7 @@ practice make perfect
                 explanation: "An increase in Standard Deviation (SD) increases variability, making it harder to detect a true difference, thereby decreasing power."
             },
             {
-                question: "20. BE usual one-sided $\\alpha$ =",
+                question: "20. BE usual one-sided α =",
                 options: ["A. 0.5%", "B. 1%", "C. 2.5%", "D. 5%"],
                 answer: "D",
                 explanation: "Bioequivalence (BE) studies typically use a one-sided $\\alpha = 5\\%$."
